@@ -34,7 +34,7 @@ confirmed cases per 100000 population
     <img width="481" height="317" alt="Screenshot 2026-10-28 205929" src="https://github.com/user-attachments/assets/8091f123-8347-4798-bb45-5e0e0dadb445" />
 
     <img width="722" height="346" alt="Screenshot 2026-10-28 210019" src="https://github.com/user-attachments/assets/5a003139-717f-4d70-a5c6-fc0d92ebe14b" />
-    ## Challenges Faced
+  ## Challenges Faced
     1. Limited data sources
     2. cleaning and organizing data from each county
        ## Collaborators
