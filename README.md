@@ -21,12 +21,11 @@ confirmed cases per 100000 population
   9. Kisumu
   10. Nakuru
       ## Findings
-  - - The total number of Ebola confirmed cases across the country is 72
-  - - There is correlation between the population of a given place and the spread of Ebola.
-  - - The total number of death cases registerd is 22 while that of recovered cases is 50 against the toll of 72 confirmed cases of Ebola across the country
-  - thus the rate of recovery is higher than the rate of death from Ebola.
-  - - The county with the highest spread rate of Ebola for every 100000 population of people is Mombasa
-    -
+  - The total number of Ebola confirmed cases across the country is 72
+  - There is correlation between the population of a given place and the spread of Ebola.
+  - The total number of death cases registered is 22 while that of recovered cases is 50 against the toll of 72 confirmed cases of Ebola across the country thus the rate of recovery is higher than the rate of death from Ebola.
+  - The county with the highest spread rate of Ebola for every 100000 population of people is Mombasa
+    
     - <img width="1185" height="235" alt="Screenshot 2026-10-28 205758" src="https://github.com/user-attachments/assets/4d2f7857-7cad-48e7-a78f-260190171e3d" />
     
     
