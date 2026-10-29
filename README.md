@@ -50,6 +50,7 @@ confirmed cases per 100000 population
   ## Challenges Faced
     1. Limited data sources
     2. cleaning and organizing data from each county
+    3. Limited research time
        ## Collaborators
        1. Mary Margaret
        ## Licence
