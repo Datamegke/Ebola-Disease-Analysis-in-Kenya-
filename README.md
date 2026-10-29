@@ -36,6 +36,12 @@ confirmed cases per 100000 population
     
 
     <img width="722" height="346" alt="Screenshot 2026-10-28 210019" src="https://github.com/user-attachments/assets/5a003139-717f-4d70-a5c6-fc0d92ebe14b" />
+## Reccomendations
+- Strengthen contact tracing
+- Rapid isolation of suspected cases and treatment of confirmed cases
+- Strengthen surveillance and early detection
+- Improve infection prevention and control(IPC) eg. by training healthcare providers on Ebola IPC procedures
+- Promote community awareness, explain symptoms, transmission routes and where to seek care.
     
     
   ## Challenges Faced
