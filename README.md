@@ -8,6 +8,9 @@ confirmed cases per 100000 population
 - Establish the correlation between the population of a place and the spread of Ebola
 - Determine the likelihood of recovery/death following an Ebola infection
 - Establish the spread rate of Ebola for ever 100000 population of people per county
+  ## Tools used
+  1. Excel
+  2. Github
   ## Dataset Used
   This analysis has been made from data sourced from the Ministry of Health records for the following counties in Kenya
   1. Nairobi
